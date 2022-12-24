@@ -1,0 +1,3 @@
+/home/zhanglei/slowfast/ascend_310_infer/out/CMakeFiles/rebuild_cache.dir
+/home/zhanglei/slowfast/ascend_310_infer/out/CMakeFiles/edit_cache.dir
+/home/zhanglei/slowfast/ascend_310_infer/out/CMakeFiles/main.dir
